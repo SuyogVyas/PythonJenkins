@@ -4,7 +4,7 @@ from calc import add,subtract
 def test_add():
     assert add(3,4) == 7
     assert add(8,11) == 19
-    assert add(8,4) == 33
+    
 
 
 def test_subtract():
